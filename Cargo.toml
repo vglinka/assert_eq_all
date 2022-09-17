@@ -1,0 +1,12 @@
+[package]
+name = "assert_eq_all"
+version = "0.1.0"
+edition = "2021"
+authors = ["Vadim Glinka <vadgit@yandex.com>"]
+description = "Accepts any number of arguments and panics if they are not equal."
+keywords = ["assert_eq_all", "assert_ne_all", "assert_all"]
+categories = ["development-tools"]
+repository = "https://github.com/vglinka/assert_eq_all"
+readme = "README.md"
+license = "Apache-2.0 OR MIT"
+exclude = ["/target"]
