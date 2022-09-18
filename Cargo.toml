@@ -1,6 +1,6 @@
 [package]
 name = "assert_eq_all"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Vadim Glinka <vadgit@yandex.com>"]
 description = "Accepts any number of arguments and panics if they are not equal."
